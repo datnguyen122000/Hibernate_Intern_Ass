@@ -1,0 +1,125 @@
+nav.header {
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.container-fluid select {
+    font-family: fontAwesome;
+    font-size: 20px;
+}
+
+.container-fluid .select {
+    width: 41px;
+    border: none;
+    background-color: #f8f9fa;
+}
+
+.body .left {
+    background-color: #f8f8f8;
+    height: 707px;
+    margin-bottom: 20px;
+    padding: 0;
+    margin-bottom: 0px;
+}
+
+.left .search {
+    margin-top: 20px;
+    width: 95%;
+    margin-left: 10px;
+}
+
+.left .searchButton {
+    border: 1px solid #ebebeb;
+    background-color: white;
+    margin-left: -10px;
+}
+
+.left .searchInput {
+    border: 1px solid #ebebeb;
+    background-color: white;
+}
+
+.container-fluid {
+    border: 1px solid #f1f1f1;
+}
+
+.col-9 .body {
+    border-radius: 5px;
+}
+
+.col-9 .component {
+    width: 90%;
+}
+
+.col-9 h1 {
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.col-9 .form .header {
+    border-radius: 5px;
+    border-bottom: 1px solid #cbcbcb;
+    height: 30px;
+    margin-top: -10px;
+}
+
+.form .container-fluid {
+    padding-left: 15px;
+    border: 1px solid #cbcbcb;
+}
+
+.form .body {
+    border: 1px solid #ededed;
+}
+
+.form .detailForm {
+    border: 1px solid #ededed;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.form .detailForm .component {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.button1 {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.button2 {
+    margin-bottom: 10px;
+}
+
+.detailForm table {
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.detailForm table td,
+th {
+    border: 1px solid #e1e1e1;
+}
+
+.detailForm table thead {
+    border: none;
+    border: 1px solid #e1e1e1;
+}
+
+.detailForm table thead th {
+    border: 1px solid #e1e1e1;
+    vertical-align: middle;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.detailForm table .colTitle {
+    width: 20%;
+}
+
+.detailForm table .colBrief {
+    width: 20%;
+}
